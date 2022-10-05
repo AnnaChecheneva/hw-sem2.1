@@ -15,6 +15,3 @@ else
     System.Console.WriteLine($"{n} нечетное число!");
 }
 
-git remote add origin https://github.com/AnnaChecheneva/hw-sem2.1.git
-git branch -M main
-git push -u origin main
